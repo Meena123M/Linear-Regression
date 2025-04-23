@@ -25,3 +25,14 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 This is a block with a default grey background
 ```
 
+| Name     | Age | Location   |
+|----------|-----|------------|
+| Alice    | 25  | Bangalore  |
+| Bob      | 30  | Chennai    |
+| Charlie  | 28  | Hyderabad  |
+
+
+
+[View CSV file](./data/myfile.csv)
+
+
