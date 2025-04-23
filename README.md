@@ -17,3 +17,5 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 + Thomas Jefferson
 
 `This is light grey highlighted text`
+
+<pre> ``` This block uses a slightly darker grey background. Good for separating notes or content. ``` </pre>
