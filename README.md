@@ -27,9 +27,9 @@ This is a block with a default grey background
 
 | Name     | Age | Location   |
 |----------|-----|------------|
-| Alice    | 25  | Bangalore  |
+| `Alice`    | 25  | Bangalore  |
 | Bob      | 30  | Chennai    |
-| Charlie  | 28  | Hyderabad  |
+| Charlie  | 28  | `Hyderabad`  |
 
 
 
