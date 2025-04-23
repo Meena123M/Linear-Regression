@@ -16,7 +16,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 * John Adams
 + Thomas Jefferson
 
-`This is light grey highlighted text`
+`This is light grey highlighted text`Thomas Jefferson Thomas Jefferson
 
 `` This block uses a slightly darker grey background. Good for separating notes or content. ``
 
